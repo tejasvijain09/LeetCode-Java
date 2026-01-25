@@ -1,19 +1,19 @@
-public class Solution {
+class Solution {
     public boolean isAnagram(String s, String t) {
-        if (s.length() != t.length()) {
-            return false;
+        Map<Character,Integer> freq = new HashMap<>();
+
+        if(s.length() != t.length()) return false;
+        for(char c : s.toCharArray()){
+            freq.put(c,freq.getOrDefault(c,0) + 1);
+        }
+        for(int j=0;j<t.length();j++){
+            char ch = t.charAt(j);
+            if(!freq.containsKey(ch)) return false; // stuck point 
+            freq.put(ch,freq.get(ch) - 1);
         }
 
-        int[] count = new int[26];
-        for (int i = 0; i < s.length(); i++) {
-            count[s.charAt(i) - 'a']++; //converts a lowercase character into a 0–25 index
-            count[t.charAt(i) - 'a']--;
-        }
-
-        for (int val : count) {
-            if (val != 0) {
-                return false;
-            }
+        for(int value: freq.values()){
+            if(Math.abs(value) > 0) return false;
         }
         return true;
     }
