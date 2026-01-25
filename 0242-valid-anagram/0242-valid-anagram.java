@@ -4,10 +4,17 @@ public class Solution {
             return false;
         }
 
-        char[] sSort = s.toCharArray();
-        char[] tSort = t.toCharArray();
-        Arrays.sort(sSort);
-        Arrays.sort(tSort);
-        return Arrays.equals(sSort, tSort);
+        int[] count = new int[26];
+        for (int i = 0; i < s.length(); i++) {
+            count[s.charAt(i) - 'a']++; //converts a lowercase character into a 0–25 index
+            count[t.charAt(i) - 'a']--;
+        }
+
+        for (int val : count) {
+            if (val != 0) {
+                return false;
+            }
+        }
+        return true;
     }
 }
