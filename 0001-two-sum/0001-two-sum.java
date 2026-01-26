@@ -1,24 +1,20 @@
 class Solution {
     public int[] twoSum(int[] nums, int target) {
         
-        int[][] arr = new int[nums.length][2];
-        for(int i=0;i<nums.length;i++){
-            arr[i][0] = nums[i];
-            arr[i][1] = i;
+        HashMap<Integer,Integer> map = new HashMap<>();
+        // Pass 1 store value -> index
+        for (int i = 0; i < nums.length; i++) {
+            map.put(nums[i], i);
         }
-        Arrays.sort(arr, (a,b) -> a[0] - b[0]); // sorts in ascending order based on value
-        int left = 0;
-        int right = nums.length - 1;
-        while(left < right){
-            int sum = arr[left][0] + arr[right][0];
-            if(sum == target){
-                return new int[]{arr[left][1],arr[right][1]};
-            }else if(sum < target){
-                left++;
-            }else{
-                right--;
+        // Pass 2 check for complement
+        for (int i = 0; i < nums.length; i++) {
+            int need = target - nums[i];
+
+            if (map.containsKey(need) && map.get(need) != i) {
+                return new int[]{i, map.get(need)};
             }
         }
-        return new int[]{-1,-1};
+
+        return new int[]{-1, -1}; 
     }
 }
