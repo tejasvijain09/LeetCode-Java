@@ -2,17 +2,16 @@ class Solution {
     public int[] twoSum(int[] nums, int target) {
         
         HashMap<Integer,Integer> map = new HashMap<>();
-        // Pass 1 store value -> index
-        for (int i = 0; i < nums.length; i++) {
-            map.put(nums[i], i);
-        }
-        // Pass 2 check for complement
         for (int i = 0; i < nums.length; i++) {
             int need = target - nums[i];
 
-            if (map.containsKey(need) && map.get(need) != i) {
-                return new int[]{i, map.get(need)};
+            // check if the required number already exists
+            if (map.containsKey(need)) {
+                return new int[]{map.get(need), i};
             }
+
+            // store current value with its index
+            map.put(nums[i], i);
         }
 
         return new int[]{-1, -1}; 
