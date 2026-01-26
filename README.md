@@ -6,6 +6,7 @@ Data Structures &amp; Algorithms practice using Java
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/tejasvijain09/LeetCode-Java/tree/master/0001-two-sum) |
 | [0242-valid-anagram](https://github.com/tejasvijain09/LeetCode-Java/tree/master/0242-valid-anagram) |
 ## String
 |  |
@@ -15,4 +16,8 @@ Data Structures &amp; Algorithms practice using Java
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/tejasvijain09/LeetCode-Java/tree/master/0242-valid-anagram) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/tejasvijain09/LeetCode-Java/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
