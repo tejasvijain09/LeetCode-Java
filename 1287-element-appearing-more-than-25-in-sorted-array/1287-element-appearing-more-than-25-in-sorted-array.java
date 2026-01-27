@@ -1,14 +1,19 @@
 class Solution {
     public int findSpecialInteger(int[] arr) {
-        Map<Integer, Integer> map = new HashMap<>();
         int n = arr.length;
+        int count = 1;
 
-        for (int num : arr) {
-            map.put(num, map.getOrDefault(num, 0) + 1);
-            if (map.get(num) > n / 4) {
-                return num;
+        for (int i = 1; i < n; i++) {
+            if (arr[i] == arr[i - 1]) {
+                count++;
+            } else {
+                count = 1;
+            }
+
+            if (count > n / 4) {
+                return arr[i];
             }
         }
-        return -1;
+        return arr[0];
     }
 }
