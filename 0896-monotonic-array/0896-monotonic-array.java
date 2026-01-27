@@ -11,6 +11,7 @@ class Solution {
                 inc++;
             }
         }
-        return !(inc > 0 && dec > 0); // core idea
+        return !(inc > 0 && dec > 0); // 	If both increasing and decreasing steps exist -> NOT monotonic
+        // return inc == 0 || dec == 0; 
     }
 }
