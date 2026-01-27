@@ -1,19 +1,20 @@
 class Solution {
     public boolean validMountainArray(int[] arr) {
-        int n = arr.length;
-        if (n < 3) return false;
+        boolean up = false;
+        boolean down = false;
 
-        int left = 0;
-        int right = n - 1;
+        for (int i = 1; i < arr.length; i++) {
 
-        while (left + 1 < n && arr[left] < arr[left + 1]) {
-            left++;
+            if (arr[i] == arr[i - 1]) return false;
+
+            if (arr[i] > arr[i - 1]) {
+                if (down) return false; // can't go up after down
+                up = true;
+            } else {
+                if (!up) return false; // can't go down before up
+                down = true;
+            }
         }
-
-        while (right - 1 >= 0 && arr[right] < arr[right - 1]) {
-            right--;
-        }
-
-        return left > 0 && right < n - 1 && left == right;
+        return up && down;
     }
 }
