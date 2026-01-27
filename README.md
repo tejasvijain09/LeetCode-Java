@@ -22,4 +22,5 @@ Data Structures &amp; Algorithms practice using Java
 | [0001-two-sum](https://github.com/tejasvijain09/LeetCode-Java/tree/master/0001-two-sum) |
 | [0485-max-consecutive-ones](https://github.com/tejasvijain09/LeetCode-Java/tree/master/0485-max-consecutive-ones) |
 | [0896-monotonic-array](https://github.com/tejasvijain09/LeetCode-Java/tree/master/0896-monotonic-array) |
+| [0941-valid-mountain-array](https://github.com/tejasvijain09/LeetCode-Java/tree/master/0941-valid-mountain-array) |
 <!---LeetCode Topics End-->
