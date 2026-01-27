@@ -3,23 +3,17 @@ class Solution {
         int n = arr.length;
         if (n < 3) return false;
 
-        int peak = 0;
-        for (int i = 1; i < n; i++) {
-            if (arr[i] > arr[peak]) {
-                peak = i;
-            }
+        int left = 0;
+        int right = n - 1;
+
+        while (left + 1 < n && arr[left] < arr[left + 1]) {
+            left++;
         }
 
-        if (peak == 0 || peak == n - 1) return false;
-
-        for (int i = 1; i <= peak; i++) {
-            if (arr[i] <= arr[i - 1]) return false;
+        while (right - 1 >= 0 && arr[right] < arr[right - 1]) {
+            right--;
         }
 
-        for (int i = peak + 1; i < n; i++) {
-            if (arr[i] >= arr[i - 1]) return false;
-        }
-
-        return true;
+        return left > 0 && right < n - 1 && left == right;
     }
 }
