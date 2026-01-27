@@ -1,17 +1,16 @@
 class Solution {
     public boolean isMonotonic(int[] nums) {
-       Boolean incBool = true;
-       Boolean decBool = true;
+        int dec = 0;
+        int inc = 0;
+
         for(int i=0;i<nums.length-1;i++){
             if(nums[i] > nums[i+1]){
-                incBool = false;
+                dec++;
             }
-        }
-        for(int i=0;i<nums.length-1;i++){
             if(nums[i] < nums[i+1]){
-                decBool = false;
+                inc++;
             }
         }
-        return (incBool || decBool);
+        return !(inc > 0 && dec > 0); // core idea
     }
 }
