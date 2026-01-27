@@ -1,17 +1,12 @@
 class Solution {
     public boolean isMonotonic(int[] nums) {
-        int dec = 0;
-        int inc = 0;
+        boolean inc = false, dec = false;
 
-        for(int i=0;i<nums.length-1;i++){
-            if(nums[i] > nums[i+1]){
-                dec++;
-            }
-            if(nums[i] < nums[i+1]){
-                inc++;
-            }
+        for (int i = 0; i < nums.length - 1; i++) {
+            if (nums[i] < nums[i + 1]) inc = true;
+            if (nums[i] > nums[i + 1]) dec = true;
+            if (inc && dec) return false;
         }
-        return !(inc > 0 && dec > 0); // 	If both increasing and decreasing steps exist -> NOT monotonic
-        // return inc == 0 || dec == 0; 
+        return true;
     }
 }
