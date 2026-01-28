@@ -15,11 +15,13 @@ Data Structures &amp; Algorithms practice using Java
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/tejasvijain09/LeetCode-Java/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/tejasvijain09/LeetCode-Java/tree/master/0242-valid-anagram) |
 ## Array
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/tejasvijain09/LeetCode-Java/tree/master/0001-two-sum) |
+| [0075-sort-colors](https://github.com/tejasvijain09/LeetCode-Java/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/tejasvijain09/LeetCode-Java/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/tejasvijain09/LeetCode-Java/tree/master/0485-max-consecutive-ones) |
 | [0605-can-place-flowers](https://github.com/tejasvijain09/LeetCode-Java/tree/master/0605-can-place-flowers) |
@@ -30,6 +32,7 @@ Data Structures &amp; Algorithms practice using Java
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/tejasvijain09/LeetCode-Java/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/tejasvijain09/LeetCode-Java/tree/master/0283-move-zeroes) |
 ## Greedy
 |  |
