@@ -24,4 +24,5 @@ Data Structures &amp; Algorithms practice using Java
 | [0896-monotonic-array](https://github.com/tejasvijain09/LeetCode-Java/tree/master/0896-monotonic-array) |
 | [0941-valid-mountain-array](https://github.com/tejasvijain09/LeetCode-Java/tree/master/0941-valid-mountain-array) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/tejasvijain09/LeetCode-Java/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/tejasvijain09/LeetCode-Java/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 <!---LeetCode Topics End-->
