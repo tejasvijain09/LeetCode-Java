@@ -22,6 +22,7 @@ Data Structures &amp; Algorithms practice using Java
 | [0001-two-sum](https://github.com/tejasvijain09/LeetCode-Java/tree/master/0001-two-sum) |
 | [0283-move-zeroes](https://github.com/tejasvijain09/LeetCode-Java/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/tejasvijain09/LeetCode-Java/tree/master/0485-max-consecutive-ones) |
+| [0605-can-place-flowers](https://github.com/tejasvijain09/LeetCode-Java/tree/master/0605-can-place-flowers) |
 | [0896-monotonic-array](https://github.com/tejasvijain09/LeetCode-Java/tree/master/0896-monotonic-array) |
 | [0941-valid-mountain-array](https://github.com/tejasvijain09/LeetCode-Java/tree/master/0941-valid-mountain-array) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/tejasvijain09/LeetCode-Java/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
@@ -30,4 +31,8 @@ Data Structures &amp; Algorithms practice using Java
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/tejasvijain09/LeetCode-Java/tree/master/0283-move-zeroes) |
+## Greedy
+|  |
+| ------- |
+| [0605-can-place-flowers](https://github.com/tejasvijain09/LeetCode-Java/tree/master/0605-can-place-flowers) |
 <!---LeetCode Topics End-->
