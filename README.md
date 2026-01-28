@@ -29,13 +29,19 @@ Data Structures &amp; Algorithms practice using Java
 | [0941-valid-mountain-array](https://github.com/tejasvijain09/LeetCode-Java/tree/master/0941-valid-mountain-array) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/tejasvijain09/LeetCode-Java/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/tejasvijain09/LeetCode-Java/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/tejasvijain09/LeetCode-Java/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Two Pointers
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/tejasvijain09/LeetCode-Java/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/tejasvijain09/LeetCode-Java/tree/master/0283-move-zeroes) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/tejasvijain09/LeetCode-Java/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Greedy
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/tejasvijain09/LeetCode-Java/tree/master/0605-can-place-flowers) |
+## Simulation
+|  |
+| ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/tejasvijain09/LeetCode-Java/tree/master/2149-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
