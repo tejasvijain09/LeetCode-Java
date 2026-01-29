@@ -30,6 +30,7 @@ Data Structures &amp; Algorithms practice using Java
 | [0283-move-zeroes](https://github.com/tejasvijain09/LeetCode-Java/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/tejasvijain09/LeetCode-Java/tree/master/0485-max-consecutive-ones) |
 | [0605-can-place-flowers](https://github.com/tejasvijain09/LeetCode-Java/tree/master/0605-can-place-flowers) |
+| [0724-find-pivot-index](https://github.com/tejasvijain09/LeetCode-Java/tree/master/0724-find-pivot-index) |
 | [0896-monotonic-array](https://github.com/tejasvijain09/LeetCode-Java/tree/master/0896-monotonic-array) |
 | [0941-valid-mountain-array](https://github.com/tejasvijain09/LeetCode-Java/tree/master/0941-valid-mountain-array) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/tejasvijain09/LeetCode-Java/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
@@ -66,4 +67,8 @@ Data Structures &amp; Algorithms practice using Java
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/tejasvijain09/LeetCode-Java/tree/master/0050-powx-n) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/tejasvijain09/LeetCode-Java/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
