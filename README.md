@@ -23,6 +23,7 @@ Data Structures &amp; Algorithms practice using Java
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/tejasvijain09/LeetCode-Java/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/tejasvijain09/LeetCode-Java/tree/master/0004-median-of-two-sorted-arrays) |
 | [0031-next-permutation](https://github.com/tejasvijain09/LeetCode-Java/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/tejasvijain09/LeetCode-Java/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/tejasvijain09/LeetCode-Java/tree/master/0075-sort-colors) |
@@ -54,6 +55,7 @@ Data Structures &amp; Algorithms practice using Java
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/tejasvijain09/LeetCode-Java/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/tejasvijain09/LeetCode-Java/tree/master/0053-maximum-subarray) |
 ## Dynamic Programming
 |  |
@@ -71,4 +73,8 @@ Data Structures &amp; Algorithms practice using Java
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/tejasvijain09/LeetCode-Java/tree/master/0724-find-pivot-index) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/tejasvijain09/LeetCode-Java/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
