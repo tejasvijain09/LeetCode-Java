@@ -9,6 +9,7 @@ Data Structures &amp; Algorithms practice using Java
 | [0001-two-sum](https://github.com/tejasvijain09/LeetCode-Java/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/tejasvijain09/LeetCode-Java/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/tejasvijain09/LeetCode-Java/tree/master/0242-valid-anagram) |
+| [0523-continuous-subarray-sum](https://github.com/tejasvijain09/LeetCode-Java/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/tejasvijain09/LeetCode-Java/tree/master/0525-contiguous-array) |
 ## String
 |  |
@@ -31,6 +32,7 @@ Data Structures &amp; Algorithms practice using Java
 | [0217-contains-duplicate](https://github.com/tejasvijain09/LeetCode-Java/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/tejasvijain09/LeetCode-Java/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/tejasvijain09/LeetCode-Java/tree/master/0485-max-consecutive-ones) |
+| [0523-continuous-subarray-sum](https://github.com/tejasvijain09/LeetCode-Java/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/tejasvijain09/LeetCode-Java/tree/master/0525-contiguous-array) |
 | [0605-can-place-flowers](https://github.com/tejasvijain09/LeetCode-Java/tree/master/0605-can-place-flowers) |
 | [0724-find-pivot-index](https://github.com/tejasvijain09/LeetCode-Java/tree/master/0724-find-pivot-index) |
@@ -67,6 +69,7 @@ Data Structures &amp; Algorithms practice using Java
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/tejasvijain09/LeetCode-Java/tree/master/0050-powx-n) |
+| [0523-continuous-subarray-sum](https://github.com/tejasvijain09/LeetCode-Java/tree/master/0523-continuous-subarray-sum) |
 ## Recursion
 |  |
 | ------- |
@@ -74,6 +77,7 @@ Data Structures &amp; Algorithms practice using Java
 ## Prefix Sum
 |  |
 | ------- |
+| [0523-continuous-subarray-sum](https://github.com/tejasvijain09/LeetCode-Java/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/tejasvijain09/LeetCode-Java/tree/master/0525-contiguous-array) |
 | [0724-find-pivot-index](https://github.com/tejasvijain09/LeetCode-Java/tree/master/0724-find-pivot-index) |
 ## Binary Search
