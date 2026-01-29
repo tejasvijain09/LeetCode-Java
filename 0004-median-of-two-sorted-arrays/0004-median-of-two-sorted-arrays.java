@@ -3,29 +3,29 @@ class Solution {
         int m = nums1.length;
         int n = nums2.length;
 
-        int[] arr = new int[m + n];
-        int k = 0;
+        int[] merged = new int[m + n];
+        int i = 0, j = 0, k = 0;
 
-        // copy nums1
-        for (int x : nums1) {
-            arr[k++] = x;
+        // merge both arrays
+        while (i < m && j < n) {
+            if (nums1[i] <= nums2[j]) {
+                merged[k++] = nums1[i++];
+            } else {
+                merged[k++] = nums2[j++];
+            }
         }
 
-        // copy nums2
-        for (int x : nums2) {
-            arr[k++] = x;
-        }
-
-        // sort the merged array
-        Arrays.sort(arr);
+        // remaining elements
+        while (i < m) merged[k++] = nums1[i++];
+        while (j < n) merged[k++] = nums2[j++];
 
         int len = m + n;
 
         // find median
         if (len % 2 == 1) {
-            return arr[len / 2];
+            return merged[len / 2];
         } else {
-            return (arr[len / 2 - 1] + arr[len / 2]) / 2.0;
+            return (merged[len / 2 - 1] + merged[len / 2]) / 2.0;
         }
     }
 }
