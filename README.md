@@ -55,4 +55,12 @@ Data Structures &amp; Algorithms practice using Java
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/tejasvijain09/LeetCode-Java/tree/master/0053-maximum-subarray) |
+## Math
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/tejasvijain09/LeetCode-Java/tree/master/0050-powx-n) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/tejasvijain09/LeetCode-Java/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
