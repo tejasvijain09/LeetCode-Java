@@ -7,6 +7,7 @@ Data Structures &amp; Algorithms practice using Java
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/tejasvijain09/LeetCode-Java/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/tejasvijain09/LeetCode-Java/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/tejasvijain09/LeetCode-Java/tree/master/0242-valid-anagram) |
 ## String
 |  |
@@ -16,6 +17,7 @@ Data Structures &amp; Algorithms practice using Java
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/tejasvijain09/LeetCode-Java/tree/master/0075-sort-colors) |
+| [0217-contains-duplicate](https://github.com/tejasvijain09/LeetCode-Java/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/tejasvijain09/LeetCode-Java/tree/master/0242-valid-anagram) |
 ## Array
 |  |
@@ -24,6 +26,7 @@ Data Structures &amp; Algorithms practice using Java
 | [0031-next-permutation](https://github.com/tejasvijain09/LeetCode-Java/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/tejasvijain09/LeetCode-Java/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/tejasvijain09/LeetCode-Java/tree/master/0075-sort-colors) |
+| [0217-contains-duplicate](https://github.com/tejasvijain09/LeetCode-Java/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/tejasvijain09/LeetCode-Java/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/tejasvijain09/LeetCode-Java/tree/master/0485-max-consecutive-ones) |
 | [0605-can-place-flowers](https://github.com/tejasvijain09/LeetCode-Java/tree/master/0605-can-place-flowers) |
