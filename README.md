@@ -11,6 +11,7 @@ Data Structures &amp; Algorithms practice using Java
 | [0242-valid-anagram](https://github.com/tejasvijain09/LeetCode-Java/tree/master/0242-valid-anagram) |
 | [0523-continuous-subarray-sum](https://github.com/tejasvijain09/LeetCode-Java/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/tejasvijain09/LeetCode-Java/tree/master/0525-contiguous-array) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/tejasvijain09/LeetCode-Java/tree/master/0974-subarray-sums-divisible-by-k) |
 ## String
 |  |
 | ------- |
@@ -38,6 +39,7 @@ Data Structures &amp; Algorithms practice using Java
 | [0724-find-pivot-index](https://github.com/tejasvijain09/LeetCode-Java/tree/master/0724-find-pivot-index) |
 | [0896-monotonic-array](https://github.com/tejasvijain09/LeetCode-Java/tree/master/0896-monotonic-array) |
 | [0941-valid-mountain-array](https://github.com/tejasvijain09/LeetCode-Java/tree/master/0941-valid-mountain-array) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/tejasvijain09/LeetCode-Java/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/tejasvijain09/LeetCode-Java/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/tejasvijain09/LeetCode-Java/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/tejasvijain09/LeetCode-Java/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -80,6 +82,7 @@ Data Structures &amp; Algorithms practice using Java
 | [0523-continuous-subarray-sum](https://github.com/tejasvijain09/LeetCode-Java/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/tejasvijain09/LeetCode-Java/tree/master/0525-contiguous-array) |
 | [0724-find-pivot-index](https://github.com/tejasvijain09/LeetCode-Java/tree/master/0724-find-pivot-index) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/tejasvijain09/LeetCode-Java/tree/master/0974-subarray-sums-divisible-by-k) |
 ## Binary Search
 |  |
 | ------- |
